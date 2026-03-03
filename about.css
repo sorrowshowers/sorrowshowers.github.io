@@ -167,13 +167,14 @@ sidebar h2:after{
 
 sidebar h3{
     color:var(--headerfooter-color);
-    margin-bottom:1vw;
+    margin-bottom:10px;
 }
 
 main{
     padding:2vw;
     margin:0;
     background-color:var(--smallertext-color);
+    flex-grow:999;
 }
 
 main h2{

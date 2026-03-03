@@ -196,6 +196,7 @@ main{
     padding:2vw;
     margin:0;
     background-color:var(--smallertext-color);
+    flex-grow:999;
 }
 
 main h2{
